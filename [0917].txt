@@ -1,5 +1,4 @@
 머신러닝 > 인공신경망 > 제공되는 모델 > API 사용
-  install.txt 설치 (pip install -r install.txt)
 
   - 지도학습: 입력데이터(특징) + 정답
             정답이 있는 문제를 풀도록 모델을 가르치는 방식

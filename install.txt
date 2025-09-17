@@ -1,6 +1,9 @@
+설치 시 1번 line 지우고 install.txt 설치
+cmd - pip install -r install.txt
+
 nbformat>=4.2.0
 plotly
 ipywidgets
 scikit-learn
-pip install scikit-learn
-pip install plotly
+scikit-learn
+plotly
