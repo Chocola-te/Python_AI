@@ -1,0 +1,6 @@
+nbformat>=4.2.0
+plotly
+ipywidgets
+scikit-learn
+pip install scikit-learn
+pip install plotly
